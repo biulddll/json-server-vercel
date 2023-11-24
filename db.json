@@ -5,5 +5,8 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
+   "usuario": [
+    { "id": 1, "name": "Davidson","lastname": "Rocha","email": "biulddll@gmail.com", "number": "(31) 98716-7966","password":"123456"}
+  ],
   "profile": { "name": "typicode" }
 }
