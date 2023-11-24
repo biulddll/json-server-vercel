@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-   "usuario": [
-    { "id": 1, "name": "Davi","lastname": "Rocha","email": "Davi@gmail.com", "number": "(31) 98716-9999","password":"123456"},
-         { "id": 2, "name": "Pri","lastname": "Puc","email": "pri@gmail.com", "number": "(31) 98716-9999","password":"123456"},
-         { "id": 3, "name": "Victor","lastname": "Rocha","email": "victor@gmail.com", "number": "(31) 98716-9999","password":"123456"}
-  ],
-  "profile": { "name": "typicode" }
+  "usuario": [
+    {
+      "id": 1,
+      "name": "Davi",
+      "lastname": "Rocha",
+      "email": "Davi@gmail.com",
+      "number": "(31) 98716-9999",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Pri",
+      "lastname": "Puc",
+      "email": "pri@gmail.com",
+      "number": "(31) 98716-9999",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "name": "Victor",
+      "lastname": "Rocha",
+      "email": "victor@gmail.com",
+      "number": "(31) 98716-9999",
+      "password": "123456"
+    }
+  ]
 }
